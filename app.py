@@ -12,5 +12,5 @@ def nome():
     return '<p>Joel Brasil<p>'
 
 
-if __name__ == '__main__'
-    app.run(debug=true)
+if __name__ == '__main__':
+    app.run(debug=True)
